@@ -21,8 +21,6 @@ or to see a nice hot reload header
 
 #### Live Demo:
 
-In your project
-
 [https://webangeles.com/](https://webangeles.com/)
 
 ## License 
